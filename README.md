@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi, I'm Kaio Eduardo! I'm a software engineer 👋
 
+I love share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
 <!--
 **kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
