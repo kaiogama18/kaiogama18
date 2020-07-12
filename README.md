@@ -1,6 +1,15 @@
 ## Hi, I'm Kaio Eduardo! I'm a software engineer 👋
 
 I love share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
+
+## Available for:
+- React apps
+- App Development 
+
+## My Social Network 😄:
+- <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
+- <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
+
 <!--
 **kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
