@@ -1,6 +1,6 @@
 ## Hi, I'm Kaio Eduardo! I'm a software engineer 👋
 
-I love share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
+I love to share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
 
 ## Available for:
 - React apps
