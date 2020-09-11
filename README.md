@@ -1,6 +1,8 @@
 ## Hi, I'm Kaio Eduardo! I'm a software engineer 👋
 
 I love to share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
+<a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
+<a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
 
 ## Available for:
 - React apps
@@ -9,8 +11,7 @@ I love to share knowledge and writing blog posts(about frontend skill), like cod
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
 - <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
-<a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
-<a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
+
 
 <!--
 **kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
