@@ -9,6 +9,7 @@ I love to share knowledge and writing blog posts(about frontend skill), like cod
 ## Available for:
 - React apps
 - App Development 
+- AWS
 
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
