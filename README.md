@@ -3,8 +3,9 @@
 <a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
 <a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
 
-I love to share knowledge and writing blog posts(about frontend skill), like coding enjoy life.
-
+Working with web and mobile development since 2015, I have developed 
+multiple apps. Always concerned with the User Experience and using data-
+metrics to reach high retention rates.     
 
 ## Available for:
 - React apps
