@@ -12,6 +12,10 @@ metrics to reach high retention rates.
 - App Development 
 - AWS
 
+## Project:
+- https://wedo-market.herokuapp.com/
+- http://buritech.netlify.app/
+
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
 - <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
