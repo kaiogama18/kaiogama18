@@ -8,6 +8,7 @@ multiple apps. Always concerned with the User Experience and using data-
 metrics to reach high retention rates.     
 
 ## Available for:
+- Front-End Develop
 - React apps
 - App Development 
 - AWS
