@@ -15,6 +15,9 @@ metrics to reach high retention rates.
 ## Project:
 - https://wedo-market.herokuapp.com/
 - http://buritech.netlify.app/
+- https://webapp-rhmobi.herokuapp.com/
+- https://site-grupo-hunt.herokuapp.com/
+- https://dashboard-inativos.herokuapp.com/login
 
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
