@@ -14,11 +14,11 @@ metrics to reach high retention rates.
 - AWS
 
 ## Project:
-- https://wedo-market.herokuapp.com/
-- http://buritech.netlify.app/
-- https://webapp-rhmobi.herokuapp.com/
-- https://site-grupo-hunt.herokuapp.com/
-- https://dashboard-inativos.herokuapp.com/login
+- https://wedo-market.herokuapp.com 
+- http://buritech.netlify.app 
+- https://webapp-rhmobi.herokuapp.com 
+- https://site-grupo-hunt.herokuapp.com 
+- https://dashboard-inativos.herokuapp.com 
 
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
