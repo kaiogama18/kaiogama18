@@ -10,9 +10,8 @@ metrics to reach high retention rates.
 
 ## Available for:
 - Front-End Develop
-- React apps
-- App Development 
-- AWS
+- Mobile Develop
+- Machine Learning Engineer
 
 ## Project:
 - https://wedo-market.herokuapp.com 
