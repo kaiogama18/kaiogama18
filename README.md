@@ -23,7 +23,7 @@ metrics to reach high retention rates.
 
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
-- <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
+<!-- - <a href="https://medium.com/@kaioeduardoescar">Medium</a>  -->
 
 
 <!--
