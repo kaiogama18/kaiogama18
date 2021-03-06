@@ -14,7 +14,8 @@ metrics to reach high retention rates.
 - Machine Learning Engineer
 
 ## Project:
-- https://wedo-market.herokuapp.com 
+- https://wedo-commerce-lprs.vercel.app/ version 2
+- https://wedo-market.herokuapp.com version 1
 - http://buritech.netlify.app 
 - https://webapp-rhmobi.herokuapp.com 
 - https://site-grupo-hunt.herokuapp.com 
