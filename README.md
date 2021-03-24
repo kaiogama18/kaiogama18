@@ -13,6 +13,8 @@ metrics to reach high retention rates.
 - Mobile Develop
 - Machine Learning Engineer
 
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on Wedo e-commerce
 - 🌱 I’m currently learning Python
 
