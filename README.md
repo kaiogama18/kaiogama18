@@ -13,9 +13,12 @@ metrics to reach high retention rates.
 - Mobile Develop
 - Machine Learning Engineer
 
+- 🔭 I’m currently working on Wedo e-commerce
+- 🌱 I’m currently learning Python
+
 ## Project:
 - https://wedo-commerce-lprs.vercel.app/ version 2
-//- https://wedo-market.herokuapp.com version 1
+<!-- - https://wedo-market.herokuapp.com version 1 -->
 - http://buritech.netlify.app 
 - https://webapp-rhmobi.herokuapp.com 
 - https://site-grupo-hunt.herokuapp.com 
