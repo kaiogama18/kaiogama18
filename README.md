@@ -19,8 +19,7 @@ metrics to reach high retention rates.
 - 🌱 I’m currently learning Python
 
 ## Project:
-- https://wedo-commerce-lprs.vercel.app/ version 2
-<!-- - https://wedo-market.herokuapp.com version 1 -->
+- https://wedo-commerce-lprs.vercel.app/
 - http://buritech.netlify.app 
 - https://webapp-rhmobi.herokuapp.com 
 - https://site-grupo-hunt.herokuapp.com 
@@ -32,7 +31,7 @@ metrics to reach high retention rates.
 - <a href="https://kaiogama.com ">Website</a> 
 <!-- - <a href="https://medium.com/@kaioeduardoescar">Medium</a>  -->
 
-
+<!-- - https://wedo-market.herokuapp.com version 1 -->
 <!--
 **kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
