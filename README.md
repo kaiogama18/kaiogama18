@@ -1,5 +1,10 @@
 ## Hi, I'm Kaio Eduardo! I'm a software engineer 👋
 My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a> 
+My Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
+
+My 
+<a alt="Linkedin" href="https://www.artstation.com/kaiogama"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
+
 
 <a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
 <a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
