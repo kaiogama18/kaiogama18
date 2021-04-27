@@ -1,4 +1,4 @@
-## Hi, I'm Kaio Eduardo! I'm a software engineer and Unreal Generalist 👋
+## Hi, I'm Kaio Eduardo! I'm a Software Engineer and Unreal Generalist👋
 My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a> 
 Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
 
