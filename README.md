@@ -2,8 +2,6 @@
 My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a> 
 Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
 
-My 
-<a alt="Linkedin" href="https://www.artstation.com/kaiogama"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
 
 
 <a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
