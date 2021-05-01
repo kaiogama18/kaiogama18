@@ -31,8 +31,7 @@ metrics to reach high retention rates.
 
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
-<!-- - <a href="https://medium.com/@kaioeduardoescar">Medium</a>  -->
-
+- <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
 <!-- - https://wedo-market.herokuapp.com version 1 -->
 <!--
 **kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
