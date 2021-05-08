@@ -14,7 +14,7 @@ metrics to reach high retention rates.
 ## Available for:
 - Front-End Develop
 - Mobile Develop
-- Machine Learning Engineer
+- Game Developer
 
 ## 💬 At the moment:
 
