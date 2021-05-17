@@ -21,7 +21,8 @@ metrics to reach high retention rates.
 
 - 🔭 I’m currently working on Wedo e-commerce
 - 🌱 I’m currently learning Python
-
+- 📫 Learning Unreal and Amazon Lumberyard
+- 🤔 Creating character and props using Blender to test in my game "Sociedade Amazonense"
 ## Project:
 - https://wedo-commerce-lprs.vercel.app/
 - http://buritech.netlify.app 
@@ -47,4 +48,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
