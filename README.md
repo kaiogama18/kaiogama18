@@ -1,7 +1,7 @@
 ## Hi, I'm Kaio Eduardo! I'm a Software Engineer and Unreal Generalist👋
 <a>-> My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a><br/>
 <a>-> My youtube channel: https://www.youtube.com/channel/UCoLKVWWmFC3QXbx77n-eEJw</a> <br/>
-<a>-> My Artstation for Unreal and C#: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
+<a>-> My Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
 
 
 
