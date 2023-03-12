@@ -22,7 +22,7 @@ metrics to reach high retention rates.
 - 🔭 I’m currently working on Inner Silence the Game
 - 🌱 I’m currently learning C++
 - 📫 Learning Unreal and Unity
-- 🤔 Creating character and props using Blender to test in my game "Sociedade Amazonense"
+- 🤔 Creating character and props using Blender to test in my game "Inner Silence"
 ## Project:
 - https://wedo-commerce-lprs.vercel.app/
 - http://buritech.netlify.app 
