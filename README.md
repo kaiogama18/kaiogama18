@@ -19,8 +19,8 @@ metrics to reach high retention rates.
 
 ## 💬 At the moment:
 
-- 🔭 I’m currently working on Wedo e-commerce
-- 🌱 I’m currently learning Lua
+- 🔭 I’m currently working on Inner Silence the Game
+- 🌱 I’m currently learning C++
 - 📫 Learning Unreal and Unity
 - 🤔 Creating character and props using Blender to test in my game "Sociedade Amazonense"
 ## Project:
