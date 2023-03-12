@@ -1,21 +1,20 @@
 ## Hi, I'm Kaio Eduardo! I'm a Software Engineer and Unreal Generalist👋
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!--
 <a>-> My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a><br/>
 <a>-> My youtube channel: https://www.youtube.com/channel/UCoLKVWWmFC3QXbx77n-eEJw</a> <br/>
 <a>-> My Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
--->
 
 <a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
 <a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
-
+-->
 Working with web and mobile development since 2015, I have developed 
 multiple apps. Always concerned with the User Experience and using data-
 metrics to reach high retention rates.     
