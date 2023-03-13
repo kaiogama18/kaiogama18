@@ -45,7 +45,7 @@ metrics to reach high retention rates.
 - 🤔 Creating character and props using Blender to test in my game "Inner Silence"
 ## My latest projects:
 <ul>
-   <li><a href="https://wedo-commerce-lprs.vercel.app/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+   <li><a href="https://wedo-commerce-lprs.vercel.app/"><b> Wedo Commerce </b></a><br/><i>Is a Brazilian pharmaceutical technology company focused on e-commerce based in Manaus, Amazonas.</i></li>
 </ul>  
   
 - https://wedo-commerce-lprs.vercel.app/
