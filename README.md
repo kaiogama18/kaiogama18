@@ -1,4 +1,9 @@
 ## Hi, I'm Kaio Eduardo! I'm a Software Engineer and Unreal Generalist👋
+
+<div>
+I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
+</div>
+
 <div>
 <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/kaiogama18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,8 +12,6 @@
 <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://medium.com/@kaioeduardoescar" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
-
-I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
 
 ## languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
