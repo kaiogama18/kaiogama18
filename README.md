@@ -13,7 +13,7 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <a href="https://medium.com/@kaioeduardoescar" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
-## languages and tools:
+## ✌️ Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -24,18 +24,17 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Available for:
+## 🤜 Available for:
 - Game Developer C/C++
 - Front-End Develop
 - Mobile Develop
 
 ## 💬 At the moment:
+- 🌱 I'm currently working with C++ on Unreal Engine at Luby;
+- 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
+- 🤔 Creating character and props using Blender to test in the game "Inner Silence";
 
-- 🔭 I’m currently working on Inner Silence the Game
-- 🌱 I’m currently learning C++
-- 📫 Learning Unreal and Unity
-- 🤔 Creating character and props using Blender to test in my game "Inner Silence"
-## My latest projects:
+## 🦾 My latest projects:
 <ul>
    <li><a href="https://wedo-commerce-lprs.vercel.app/"><b> Wedo Commerce </b></a><br/><i>Is a Brazilian pharmaceutical technology company focused on e-commerce based in Manaus, Amazonas.</i></li>
     <li><a href="http://buritech.netlify.app"><b> Buritech </b></a><br/><i>Amazonian startup that works in the creation of products and training in Data Science.</i></li>
