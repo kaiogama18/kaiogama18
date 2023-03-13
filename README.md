@@ -8,19 +8,7 @@
 <a href="https://medium.com/@kaioeduardoescar" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
-
-   
-<!--
-<a>-> My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a><br/>
-<a>-> My youtube channel: https://www.youtube.com/channel/UCoLKVWWmFC3QXbx77n-eEJw</a> <br/>
-<a>-> My Artstation: <a href="https://www.artstation.com/kaiogama">artstation.com/kaiogama</a> 
-
-<a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
-<a alt="Github" href="https://github.com/kaiogama18"><img src="https://img.shields.io/badge/Github-Kaio%20B.%20Gama-lightgrey?logo=github"/></a>
--->
-Working with web and mobile development since 2015, I have developed 
-multiple apps. Always concerned with the User Experience and using data-
-metrics to reach high retention rates.  
+I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
 
 ## languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
