@@ -3,7 +3,7 @@
 <div>
 I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
 </div>
-
+</br>
 <div>
 <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/kaiogama18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
