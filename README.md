@@ -22,7 +22,6 @@ Working with web and mobile development since 2015, I have developed
 multiple apps. Always concerned with the User Experience and using data-
 metrics to reach high retention rates.  
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 ## languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,30 +47,13 @@ metrics to reach high retention rates.
 ## My latest projects:
 <ul>
    <li><a href="https://wedo-commerce-lprs.vercel.app/"><b> Wedo Commerce </b></a><br/><i>Is a Brazilian pharmaceutical technology company focused on e-commerce based in Manaus, Amazonas.</i></li>
-</ul>  
-  
-- https://wedo-commerce-lprs.vercel.app/
-- http://buritech.netlify.app 
+    <li><a href="http://buritech.netlify.app "><b> Buritech </b></a><br/><i>Amazonian startup that works in the creation of products and training in Data Science.</i></li>
+</ul>
+
+<!-- 
+## Website Hosting on Heroku
 - https://webapp-rhmobi.herokuapp.com 
 - https://site-grupo-hunt.herokuapp.com 
 - https://dashboard-inativos.herokuapp.com 
 - https://100daysofgatsby88007.gtsb.io/
-
-<!--
-## My Social Network 😄:
-- <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
-- <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
-<!-- - https://wedo-market.herokuapp.com version 1 -->
-<!--
-**kaiogama18/kaiogama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
