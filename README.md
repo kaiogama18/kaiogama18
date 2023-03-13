@@ -5,8 +5,11 @@
 <a href="https://www.twitch.tv/kaio_edu18" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "https://twitter.com/kaioedu18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://medium.com/@kaioeduardoescar" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
+
+   
 <!--
 <a>-> My portfolio website: <a href="https://kaiogama.com">https://kaiogama.com</a><br/>
 <a>-> My youtube channel: https://www.youtube.com/channel/UCoLKVWWmFC3QXbx77n-eEJw</a> <br/>
@@ -31,7 +34,6 @@ metrics to reach high retention rates.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 ## Available for:
 - Game Developer C/C++
 - Front-End Develop
@@ -55,6 +57,7 @@ metrics to reach high retention rates.
 - https://dashboard-inativos.herokuapp.com 
 - https://100daysofgatsby88007.gtsb.io/
 
+<!--
 ## My Social Network 😄:
 - <a href="https://www.linkedin.com/in/kaiogama/">LinkedIn</a> 
 - <a href="https://medium.com/@kaioeduardoescar">Medium</a> 
@@ -72,4 +75,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
