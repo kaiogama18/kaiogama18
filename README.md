@@ -43,7 +43,11 @@ metrics to reach high retention rates.
 - 🌱 I’m currently learning C++
 - 📫 Learning Unreal and Unity
 - 🤔 Creating character and props using Blender to test in my game "Inner Silence"
-## Project:
+## My latest projects:
+<ul>
+   <li><a href="https://wedo-commerce-lprs.vercel.app/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+</ul>  
+  
 - https://wedo-commerce-lprs.vercel.app/
 - http://buritech.netlify.app 
 - https://webapp-rhmobi.herokuapp.com 
