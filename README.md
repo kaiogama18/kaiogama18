@@ -10,8 +10,10 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <a href="https://www.twitch.tv/kaio_edu18" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "https://twitter.com/kaioedu18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <!-- 
 <a href="https://medium.com/@kaioeduardoescar" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
+-->
 
 ## ✌️ Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
