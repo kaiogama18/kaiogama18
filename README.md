@@ -36,7 +36,7 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 ## 💬 At the moment:
 - 🌱 I'm currently working with C++ on Unreal Engine at Luby;
 - 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
-- 🤔 Creating character and props using Blender to test in the game "Inner Silence";
+<!-- - 🤔 Creating character and props using Blender to test in the game "Inner Silence"; -->
 
 ## 🦾 My latest projects:
 <ul>
