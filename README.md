@@ -1,4 +1,4 @@
-## Hi, I'm Kaio Eduardo! I'm a Software Engineer and Unreal Generalist👋
+## Hi, I'm Kaio Gama! I'm a Software Engineer and Unreal Generalist👋
 
 <div>
 I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
