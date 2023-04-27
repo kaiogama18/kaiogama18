@@ -28,11 +28,13 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<!-- 
 ## 🤜 Available for:
 - Game Developer C/C++
 - Front-End Develop
 - Mobile Develop
-
+-->
+   
 ## 💬 At the moment:
 - 🌱 I'm currently working with C++ on Unreal Engine at Luby;
 - 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
