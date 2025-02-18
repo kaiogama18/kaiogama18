@@ -43,6 +43,7 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 ## 🦾 My latest projects:
 <!-- <a href="https://boredcatstudio.itch.io/north-athens"><img src="https://github.com/North-Team-Studios/SocialMedia/blob/main/Banner/banner_github.png">-->
 <ul>
+    <li><a href="https://github.com/The-Lubers-Group/ActionSlug"><b> Action Slug </b></a><br/><i>Is a 2D platformers game made in Unity.</i></li>
     <li><a href="https://kaio-edu18.itch.io/tiny-silverutch"><b> Tiny Silverutch </b></a><br/><i>Is a time survival roguelite game made in Godot.</i></li>
    <li><a href="https://rasgando-ceus-quiz.admin.oke.luby.me"><b> Dashboard Rasgando Ceus </b></a><br/><i>Control panel to create religious quiz for a mobile game.</i></li>
    <li><a href="https://boredcatstudio.itch.io/north-athens"><b> Noth Athens </b></a><br/><i>Game made in Unreal Engine developed for Game Jam Plus 2023/2024</i></li>
