@@ -39,7 +39,13 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 - 🌱 I'm currently working with C++ on Unreal Engine;
 - 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
 <!-- - 🤔 Creating character and props using Blender to test in the game "Inner Silence"; -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiogama18&repo=NorthAthensTheGame)](https://github.com/kaiogama18/NorthAthensTheGame)
+
+
+
+
+<!-- - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiogama18&repo=NorthAthensTheGame)](https://github.com/kaiogama18/NorthAthensTheGame)  -->
+
+
 ## 🦾 My latest projects:
 <!-- <a href="https://boredcatstudio.itch.io/north-athens"><img src="https://github.com/North-Team-Studios/SocialMedia/blob/main/Banner/banner_github.png">-->
 <ul>
