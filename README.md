@@ -13,8 +13,10 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kaiogama)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaiogama18@gmail.com)
 
-<div align="center">
-<h3 align="center">My Itch.io and  Artstation pages</h3>
+<!-- <div align="center"> -->
+<div>
+<!-- <h3 align="center">My Itch.io and  Artstation pages</h3>-->
+<h3 align="left">My Itch.io and  Artstation pages</h3>
 <p float="left">
       <a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  width="full" height="128"/></a>
       <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" width="full" height="128"/></a>
