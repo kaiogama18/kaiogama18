@@ -1,4 +1,4 @@
-## Hi, I'm Kaio Edaurdo Gama, a Developer and 3D Artist 👋.
+## Hi, I'm Kaio Eduardo B. Gama, a Developer and 3D Artist 👋.
 
 <div>
       I'm a Developer and 3D Character Artist with experience in Java, C++, C#, JavaScript, and Python, as well as expertise in Blender, ZBrush, and Substance Painter for 3D creation.
