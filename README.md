@@ -7,21 +7,12 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <div>
 
 
- <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
-
-
-
-
-
-
-
-
-</br>
-<a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png" width="full" height="128" style="display: block; margin: 0 auto"/></a>
-
+<a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  height="128" style="display: block; margin: 0 auto"/></a>
+<a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" height="128" style="display: block; margin: 0 auto"/></a>
 
 ## ✌️ Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
