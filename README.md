@@ -1,18 +1,19 @@
-## Hi, I'm Kaio Gama I'm a Software Engineer and Unreal | Game Developer👋
+## Hi, I'm Kaio Edaurdo Gama, a Developer and 3D Artist 👋.
 
 <div>
-I'm a software engineer and 3D character artist with experience in Java, Kotlin, C++, Javascript, Python and in Blender, ZBrush, Maya, Houdini, Substance Painter, Marvelous Designer, Marmoset Toolbag for 3D and Unreal Engine.
+      I'm a Developer and 3D Character Artist with experience in Java, C++, C#, JavaScript, and Python, as well as expertise in Blender, ZBrush, and Substance Painter for 3D creation.
 </div>
+
 </br>
-<div>
 
-
-<a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-
-<a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  height="128" style="display: block; margin: 0 auto"/></a>
-<a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" height="128" style="display: block; margin: 0 auto"/></a>
+<div style="text-align:center">
+   <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   </br>
+   <a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  height="128" style="display: block; margin: 0 auto"/></a>
+   <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" height="128" style="display: block; margin: 0 auto"/></a>
+</div> 
 
 ## ✌️ Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -24,8 +25,6 @@ I'm a software engineer and 3D character artist with experience in Java, Kotlin,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></code>
-
-   
 ## 💬 At the moment:
 - 🌱 I'm currently working with C++ on Unreal Engine;
 - 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
