@@ -3,16 +3,26 @@
 <div>
       I'm a Developer and 3D Character Artist with experience in Java, C++, C#, JavaScript, and Python, as well as expertise in Blender, ZBrush, and Substance Painter for 3D creation.
 </div>
-
 </br>
 
-<div style="text-align:center">
-   <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   </br>
+<!-- 
+<a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiogama/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kaiogama)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaiogama18@gmail.com)
+
+<div align="center">
+<h3 align="center">My Itch.io and  Artstation pages</h3>
+<p float="left">
+      <a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  width="full" height="128"/></a>
+      <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" width="full" height="128"/></a>
+</p>
+   <!-- 
    <a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  height="128" style="display: block; margin: 0 auto"/></a>
    <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" height="128" style="display: block; margin: 0 auto"/></a>
+   -->
 </div> 
 
 ## ✌️ Languages and tools:
@@ -24,10 +34,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></code>
+<!-- <code><img height="20" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></code> -->
+
 ## 💬 At the moment:
-- 🌱 I'm currently working with C++ on Unreal Engine;
-- 📫 I'm studying data science elements. Like best practices and tools that make the process of developing a game faster;
+- 🌱 Currently, I'm working with C# in Unity.
+- 📫 I'm studying game design principles, focusing on best practices and tools to streamline the game development process.
+
 
 ## 🦾 My latest projects:
 <ul>
