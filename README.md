@@ -50,6 +50,7 @@
 <ul>
     <li><a href="https://github.com/The-Lubers-Group/ActionSlug"><b> Action Slug </b></a><br/><i>Is a 2D platformers game made in Unity.</i></li>
     <li><a href="https://kaio-edu18.itch.io/tiny-silverutch"><b> Tiny Silverutch </b></a><br/><i>Is a time survival roguelite game made in Godot.</i></li>
+      <li><a href="https://github.com/kaiogama18/crossy-road-game"><b> Crossing Cosme Ferreira </b></a><br/><i>  A browser-based gaming experience inspired by Crossy Road! </i></li>
    <li><a href="https://rasgando-ceus-quiz.admin.oke.luby.me"><b> Dashboard Rasgando Ceus </b></a><br/><i>Control panel to create religious quiz for a mobile game.</i></li>
    <li><a href="https://boredcatstudio.itch.io/north-athens"><b> Noth Athens </b></a><br/><i>Game made in Unreal Engine developed for Game Jam Plus 2023/2024</i></li>
    <li><a href="https://tupan-team.itch.io/soul-of-the-forest"><b> Soul of the Forest </b></a><br/><i>Game made in Unity Engine developed for Naiá Game Jam 2023</i></li>
