@@ -26,7 +26,7 @@ Additional experience in 3D modeling, web/mobile development, and agile teams (S
       <h3 align="left"> <a href="https://kaio-edu18.itch.io"> Itch.io </a></h3>
       <a href="https://kaio-edu18.itch.io" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/itchio/itchioMylogo.png"  width="full" height="128"/></a><br/>
       <h3 align="left"> <a href="https://kaio-edu18.itch.io"> Artstation </a></h3>
-      <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" width="full" height="128"/></a><br/>
+      <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo_New.png" width="full" height="128"/></a><br/>
            
                  
    <!-- 
