@@ -1,11 +1,16 @@
 ## Hi, I'm Kaio Eduardo B. Gama, a Developer and 3D Artist 👋.
 
 <div>
-      I'm a Developer and 3D Character Artist with experience in Java, C++, C#, JavaScript, and Python, as well as expertise in Blender, ZBrush, and Substance Painter for 3D creation.
+      Game Developer with experience in VR/AR projects using Unity (C#) and Unreal Engine (C++), focused on immersive gameplay mechanics, real-time interactive systems, and 3D UI.
+
+      
+Worked on games and mobile experiences, including game inventory systems and balancing. Strong background in modular architecture, Scriptable Objects, and performance optimization for standalone and mobile VR devices.
+      
+Additional experience in 3D modeling, web/mobile development, and agile teams (Scrum).
 </div>
-</br>
 
 <!-- 
+</br>
 <a href="https://www.youtube.com/@kaioeduardo3967" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaiogama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 -->
@@ -42,16 +47,16 @@
 <!-- <code><img height="20" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></code> -->
 
 ## 💬 At the moment:
-- 🌱 Currently, I'm working with C# in Unity.
-- 📫 I'm studying game design principles, focusing on best practices and tools to streamline the game development process.
+- 🌱 Currently working with C# in Unity on VR/AR mobile projects.
+- 📫 Studying game design principles, with a focus on best practices and tools to streamline the game development process.
 
 
 ## 🦾 My latest projects:
 <ul>
-    <li><a href="https://github.com/The-Lubers-Group/ActionSlug"><b> Action Slug </b></a><br/><i>Is a 2D platformers game made in Unity.</i></li>
+    <!--  <li><a href="https://github.com/The-Lubers-Group/ActionSlug"><b> Action Slug </b></a><br/><i>Is a 2D platformers game made in Unity.</i></li>  -->
     <li><a href="https://kaio-edu18.itch.io/tiny-silverutch"><b> Tiny Silverutch </b></a><br/><i>Is a time survival roguelite game made in Godot.</i></li>
       <li><a href="https://github.com/kaiogama18/crossy-road-game"><b> Crossing Cosme Ferreira </b></a><br/><i>  A browser-based gaming experience inspired by Crossy Road! </i></li>
-   <li><a href="https://rasgando-ceus-quiz.admin.oke.luby.me"><b> Dashboard Rasgando Ceus </b></a><br/><i>Control panel to create religious quiz for a mobile game.</i></li>
+   <!-- <li><a href="https://rasgando-ceus-quiz.admin.oke.luby.me"><b> Dashboard Rasgando Ceus </b></a><br/><i>Control panel to create religious quiz for a mobile game.</i></li> -->
    <li><a href="https://boredcatstudio.itch.io/north-athens"><b> Noth Athens </b></a><br/><i>Game made in Unreal Engine developed for Game Jam Plus 2023/2024</i></li>
    <li><a href="https://tupan-team.itch.io/soul-of-the-forest"><b> Soul of the Forest </b></a><br/><i>Game made in Unity Engine developed for Naiá Game Jam 2023</i></li>
 
