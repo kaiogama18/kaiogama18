@@ -1,4 +1,4 @@
-## Hi, I'm Kaio Eduardo B. Gama, a Developer and 3D Artist 👋.
+## Hi, I'm Kaio Eduardo B. Gama, a Game Developer and 3D Artist 👋
 
 <div>
       Game Developer with experience in VR/AR projects using Unity (C#) and Unreal Engine (C++), focused on immersive gameplay mechanics, real-time interactive systems, and 3D UI.
