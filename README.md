@@ -1,11 +1,22 @@
 Hi, I'm Kaio Eduardo, a Software Engineer and 3D Artist 👋
 
 <div>
+Software Engineer transitioning into **Computer Vision** and **AI**, with a background in **real-time graphics, 3D development, and interactive systems**.
 
+I enjoy building intelligent visual applications, exploring **image processing, machine learning, and computer vision systems**. My previous experience with **Unity (C#), Unreal Engine (C++), and 3D technologies** helps me approach problems involving spatial computing, visual perception, and real-time data processing.
 
-Software Engineer with experience in Android development and Computer Vision, focused on building high-performance mobile applications and intelligent, real-time image processing solutions. Experienced in developing scalable applications using modern Android technologies, integrating camera-based features, machine learning models, and optimizing performance for mobile devices.
+Currently focused on:
 
-Background in Unity (C#), Unreal Engine (C++), and interactive systems, bringing a strong understanding of graphics, real-time rendering, and user experience. Additional experience in 3D modeling, web/mobile development, and agile teams (Scrum), with an emphasis on clean architecture, maintainable code, and efficient software design.
+* 👁️ Computer Vision and image processing
+* 🤖 Machine Learning applied to visual data
+* 📱 Mobile and edge AI applications
+* 🧠 Real-time intelligent systems
+
+Tech interests:
+`Python` · `OpenCV` · `PyTorch` · `TensorFlow` · `C++` · `C#` · `Android` · `3D Graphics`
+
+Always learning and building projects that combine software engineering, AI, and visual computing.
+
 
 </div>
 
@@ -34,12 +45,12 @@ Background in Unity (C#), Unreal Engine (C++), and interactive systems, bringing
    <a href="https://www.artstation.com/kaiogama" target="_blank"><img src="https://github.com/kaiogama18/MyPageDesigner/blob/main/artstation/artstationMylogo.png" height="128" style="display: block; margin: 0 auto"/></a>
    -->
 </div> 
-
+<!-- 
 ## ✌️ Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+-->
 <!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -50,8 +61,12 @@ Background in Unity (C#), Unreal Engine (C++), and interactive systems, bringing
 <!-- <code><img height="20" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></code> -->
 
 ## 💬 At the moment:
-- 🌱 Currently working with C# in Unity on VR/AR mobile projects.
-- 📫 Studying game design principles, with a focus on best practices and tools to streamline the game development process.
+- 🌱 Currently exploring **Computer Vision and Android development**, building mobile applications that combine image processing, AI, and real-time visual features.
+
+- 🔭 Studying and developing projects with **OpenCV, Machine Learning, Android, and intelligent vision systems**, focusing on performance optimization for mobile and edge devices.
+
+- 📫 Interested in creating innovative solutions by combining **software engineering, computer vision, and mobile technologies**.
+
 
 
 ## 🦾 My latest projects:
