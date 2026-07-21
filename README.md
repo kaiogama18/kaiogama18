@@ -1,12 +1,12 @@
-## Hi, I'm Kaio Eduardo B. Gama, a  Software Engineer and 3D Artist 👋
+Hi, I'm Kaio Eduardo, a Software Engineer and 3D Artist 👋
 
 <div>
-      Game Developer with experience in VR/AR projects using Unity (C#) and Unreal Engine (C++), focused on immersive gameplay mechanics, real-time interactive systems, and 3D UI.
 
-      
-Worked on games and mobile experiences, including game inventory systems and balancing. Strong background in modular architecture, Scriptable Objects, and performance optimization for standalone and mobile VR devices.
-      
-Additional experience in 3D modeling, web/mobile development, and agile teams (Scrum).
+
+Software Engineer with experience in Android development and Computer Vision, focused on building high-performance mobile applications and intelligent, real-time image processing solutions. Experienced in developing scalable applications using modern Android technologies, integrating camera-based features, machine learning models, and optimizing performance for mobile devices.
+
+Background in Unity (C#), Unreal Engine (C++), and interactive systems, bringing a strong understanding of graphics, real-time rendering, and user experience. Additional experience in 3D modeling, web/mobile development, and agile teams (Scrum), with an emphasis on clean architecture, maintainable code, and efficient software design.
+
 </div>
 
 <!-- 
