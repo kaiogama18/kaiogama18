@@ -1,9 +1,9 @@
 Hi, I'm Kaio Eduardo, a Software Engineer and 3D Artist 👋
 
 <div>
-Software Engineer transitioning into **Computer Vision** and **AI**, with a background in **real-time graphics, 3D development, and interactive systems**.
+Software Engineer transitioning into Computer Vision and AI, with a background in **real-time graphics, 3D development, and interactive systems.
 
-I enjoy building intelligent visual applications, exploring **image processing, machine learning, and computer vision systems**. My previous experience with **Unity (C#), Unreal Engine (C++), and 3D technologies** helps me approach problems involving spatial computing, visual perception, and real-time data processing.
+I enjoy building intelligent visual applications, exploring image processing, machine learning, and computer vision systems. My previous experience with Unity (C#), Unreal Engine (C++), and 3D technologies helps me approach problems involving spatial computing, visual perception, and real-time data processing.
 
 Currently focused on:
 
